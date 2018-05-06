@@ -1,0 +1,3 @@
+
+<%@ include file="mainpage.jsp"%>
+
